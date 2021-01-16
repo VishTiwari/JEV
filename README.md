@@ -13,3 +13,4 @@ Scope for further investigation:
 -Displaying a goodbye message as you close the program
 -Adding an italics option
 -Fix portability issues
+ 
