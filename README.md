@@ -8,6 +8,7 @@ This is an important problem as a lot of text editors like Notepad, TextEdit, an
 I was confident I could create a text editor, but I knew it would be a difficult task. Big software companies and developers spend a lot of money and time trying to create solid text editors but if I could create a simple one that felt more user friendly then that would be a success. 
 
 Scope for further investigation:
+
 -Letting the user choose what color they want the program to be
 -Displaying a goodbye message as you close the program
 -Adding an italics option
